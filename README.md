@@ -1,10 +1,10 @@
 # A Machine Learning Approach for Nominative Record Linkage in Chinese Historical Databases
 
 
-<a href="https://osf.io/preprints/socarxiv/rthvz_v1"><img src="https://img.shields.io/badge/DOI-10.31235/osf.io/rthvz_v1-B31B1B.svg"></a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/01615440.2026.2641454"><img src="https://img.shields.io/badge/DOI-10.1080/01615440.2026.2641454-B31B1B.svg"></a>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"></a>
 
-This repository contains the code for the manuscript [A Machine Learning Approach for Nominative Record Linkage in Chinese Historical Databases](https://osf.io/preprints/socarxiv/rthvz_v1), which implements a comprehensive record linkage pipeline for historical Chinese databases. The methodology is described in detail in our paper and consists of three core stages: **blocking**, **matching**, and **clustering**.
+This repository contains the code for the paper [A machine learning approach for nominative record linkage in Chinese historical databases](https://www.tandfonline.com/doi/full/10.1080/01615440.2026.2641454) in *Historical Methods*, which implements a comprehensive record linkage pipeline for historical Chinese databases. The methodology is described in detail in our paper and consists of three core stages: **blocking**, **matching**, and **clustering**.
 
 ## Overview
 
@@ -399,14 +399,18 @@ linkage code/
 If you use this code or methodology introduced in our paper, please cite:
 
 ```bibtex
-@article{yu_hou_wu_campbell_2025,
-  title={A Machine Learning Approach for Nominative Record Linkage in Chinese Historical Databases},
-  url={osf.io/preprints/socarxiv/rthvz_v1},
-  DOI={10.31235/osf.io/rthvz_v1},
-  journal={SocArXiv},
-  author={Yu, Yue and Hou, Yueran and Wu, Yibei and Campbell, Cameron},
-  year={2025},
-  month={Sep}
+@article{yu_hou_wu_campbell_2026,
+  author = {Yue Yu and Yueran Hou and Yibei Wu and Cameron Campbell},
+  title = {A machine learning approach for nominative record linkage in Chinese historical databases},
+  journal = {Historical Methods: A Journal of Quantitative and Interdisciplinary History},
+  volume = {0},
+  number = {0},
+  pages = {1--18},
+  year = {2026},
+  publisher = {Routledge},
+  doi = {10.1080/01615440.2026.2641454},
+  URL = {https://doi.org/10.1080/01615440.2026.2641454},
+  eprint = {https://doi.org/10.1080/01615440.2026.2641454}
 }
 ```
 
